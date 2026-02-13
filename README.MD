@@ -33,7 +33,7 @@ In main.py, you can customize the global_hubs list. Want to focus only on Europe
 > as Bjarne Stroustrup’s (the creator of C++) said "There are only two kinds of software: the 
 > ones developers complain about and the ones nobody uses." but Amadeus is neither
 > since we all collectively despise it but have no other choice. i genuinely believe you want to > piss us off so much that we buy your enterprise. like kevin o'leary gives the worst
-> shark tank deals so others may sound heavenly. 
+shark tank deals so others may sound heavenly. 
 
 > [!NOTE]
 > you won't be able to get any really good flights for many cities at all since this is using the free tier
