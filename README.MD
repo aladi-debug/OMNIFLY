@@ -30,8 +30,8 @@ OMNIFLY finds the absolute cheapest flight deals from your home airport to major
 > Amadeus's Free Tier is World-class documentation providing you with a front-row seat to a 500 error and a 2021 regurgitated almanac. don't blame me for it if some parts of the
 > program break for you. 
 > as Bjarne Stroustrup’s (the creator of C++) said "There are only two kinds of software: the ones developers complain about and the ones nobody uses." but Amadeus is neither
-> since we all collectively despise you but have no other choice. i genuinely believe you want to piss us off so much that we buy your enterprise. like kevin o'leary gives the worst
+> since we all collectively despise it but have no other choice. i genuinely believe you want to piss us off so much that we buy your enterprise. like kevin o'leary gives the worst
 > shark tank deals so others may sound heavenly. 
 
 > [!NOTE]
-> you won't be able to get any really good flights or any at all since this is using the free tier
+> you won't be able to get any really good flights for many cities at all since this is using the free tier
