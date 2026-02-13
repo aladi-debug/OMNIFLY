@@ -24,7 +24,7 @@ OMNIFLY finds the absolute cheapest flight deals from your home airport to major
     you can get those requirements in their respective webs
 
 ## config
-    In main.py, you can customize the global_hubs list. Want to focus only on Europe? Delete the Asian hubs. Want to find flights to Antarctica? Add it (though Amadeus might laugh at you).
+In main.py, you can customize the global_hubs list. Want to focus only on Europe? Delete the Asian hubs. Want to find flights to Antarctica? Add it (though Amadeus might laugh at you).
 
 
 > [!ALERT]
