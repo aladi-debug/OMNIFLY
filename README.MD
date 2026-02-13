@@ -3,7 +3,7 @@ we all have the dream to go to every major/favourite cities across the globe but
 # WELCOME TO  OMNIFLY
 
 ## what it does
-OMNIFLY finds the absolute cheapest flight deals from your home airport to major global hubs. It checks for flights for the next 14 days, sorts them by dirt-cheapness, and pings the top 30 directly to your Telegram.
+OMNIFLY finds the absolute cheapest flight deals from your home airport to major global hubs. It checks for available flights for the next 14 days, sorts them by cheapness, and pings the top 30 directly to your Telegram.
 ## features
     - **amadeus** uses [amadeus's](https://developers.amadeus.com/) API to get the flights
     - **Telegram** uses [Telegram's](https://web.telegram.org/a/) bot as IM(Instant messaging) to send and sends it to your telegram 
