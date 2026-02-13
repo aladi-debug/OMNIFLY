@@ -35,5 +35,6 @@ ones developers complain about and the ones nobody uses." but Amadeus is neither
 since we all collectively despise it but have no other choice. i genuinely believe you want to piss us off so much that we buy your enterprise. like kevin o'leary gives the worst
 shark tank deals so others may sound heavenly. 
 
+## sorry
 > [!FAILURE]
 you won't be able to get any really good flights for many cities at all since this is using the free tier
