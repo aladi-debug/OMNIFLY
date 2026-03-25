@@ -1,4 +1,4 @@
-t# OMNIFLY BOT
+# OMNIFLY BOT
 we all have the dream to go to every major/favourite cities across the globe but none of us want to pay $500-$1000 and would wish to catch $50-$250 flights but never do. well Fret not.
 # WELCOME TO  OMNIFLY
 
@@ -28,11 +28,4 @@ In main.py, you can customize the global_hubs list. Want to focus only on Europe
 
 
 > [!NOTE]
-Amadeus's Free Tier is World-class documentation providing you with a front-row seat to a 500 error and a 2021 regurgitated almanac. don't blame me for it if some parts of the program break for you. 
-as Bjarne Stroustrup’s (the creator of C++) said "There are only two kinds of software: the 
-ones developers complain about and the ones nobody uses." but Amadeus is neither
-since we all collectively despise it but have no other choice. i genuinely believe Amadeus want to piss us off so much that we buy the enterprise tier. like kevin o'leary gives the worst shark tank deals so others may sound heavenly. 
-
-## sorry
-> [!FAILURE]
-you won't be able to get any really good flights for many cities out of EU, US and India at all since this is using the free tier
+Amadeus's Free Tier has been decommissioned on march/2026 for all new users and it's to be decommissioned on july/2026 for all active user; this script would only work for those with memberships on ameadus.  oh AI 
