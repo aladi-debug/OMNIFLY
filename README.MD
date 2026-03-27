@@ -9,7 +9,7 @@ OMNIFLY finds the absolute cheapest flight deals from your home airport to major
 - **Telegram** uses [Telegram's](https://web.telegram.org/a/) bot as IM(Instant messaging) to send and sends it to your telegram 
  - **requests** uses the [requests](https://requests.readthedocs.io/en/latest/) modulo to post the msg to your telegram 
 - **datetime** uses the [datetime](https://docs.python.org/3/library/datetime.html) modulo so the searched flights could be exactly the days you want
-- **time** uses the time modulo so make the program does not make too many requests in a very short time, possibly making your program crash  
+- **time** uses the time modulo so the program does not make too many requests in a very short time, possibly making your program crash  
 
 ## 🛠 Setup
 1. **Install Dependencies:**
@@ -27,5 +27,5 @@ OMNIFLY finds the absolute cheapest flight deals from your home airport to major
 In main.py, you can customize the global_hubs list. Want to focus only on Europe? Delete the Asian hubs. Want to find flights to Antarctica? Add it (though Amadeus might laugh at you).
 
 
-> [!NOTE]
+> [!UPDATE ]
 Amadeus's Free Tier has been decommissioned on march/2026 for all new users and it's to be decommissioned on july/2026 for all active user; this script would only work for those with memberships on ameadus.  oh AI 
